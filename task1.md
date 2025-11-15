@@ -37,7 +37,8 @@
 - **Opportunity for Solo & Small Teams:** Individual developers can now compete in **vertical markets** by leveraging **AI subagents and composable skills**, reducing the need for large traditional teams.  
 - **Focus on Strategy and Reusable Intelligence:** Developers increasingly design software for **vertical-specific solutions**, orchestration of AI agents, and composable skills rather than just writing lines of code.
 
-🟢 **In short:** I think AI-driven development is a **great and new method** that helps both beginners and experienced developers save a lot of coding time. Instead of spending hours writing code, they can use that time to **plan new ideas** and give instructions to AI agents to build apps in just a few hours or days. The **AI turning point** has changed developers from just being **code writers** to **people who guide AI to create software**, making development faster, smarter, and easier to scale.
+🟢 **My Reflection after completing todays task:** 
+I think AI-driven development is a **great and new method** that helps both beginners and experienced developers save a lot of coding time. Instead of spending hours writing code, they can use that time to **plan new ideas** and give instructions to AI agents to build apps in just a few hours or days. The **AI turning point** has changed developers from just being **code writers** to **people who guide AI to create software**, making development faster, smarter, and easier to scale.
 
 🧠 MCQs (Answers)
 1. (b) Empower developers through AI tools
@@ -45,6 +46,7 @@
 3. (b) AI-Driven Development
 4. (b) Evaluating and improving AI outputs
 5. (b) Building reasoning + evaluation skills
+
 
 
 
