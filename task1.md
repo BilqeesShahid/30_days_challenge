@@ -1,4 +1,4 @@
-![Alt Text](/images/aidd.png)
+![Alt Text](/aidd.png)
 
 
 # 🔵 Q1: What is AI Driven Development?
@@ -38,4 +38,5 @@ The **AI turning point in 2025** transformed software development forever by shi
 - **Focus on Strategy and Reusable Intelligence:** Developers increasingly design software for **vertical-specific solutions**, orchestration of AI agents, and composable skills rather than just writing lines of code.
 
 **In short:** The AI turning point changed developers from being **code writers** to **strategic orchestrators of AI-driven software**, enabling faster, smarter, and more scalable software creation.
+
 
