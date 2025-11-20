@@ -1,4 +1,4 @@
-<h1 align="center"><u style="font-size: 60px;">🔵 AIDD 30-Day Challenge — Task 3 by Bilqees Shahid 🔵</u></h1>
+<h1 align="center"><u style="font-size: 60px;">🔵 AIDD 30-Days Challenge — Task 3 by Bilqees Shahid 🔵</u></h1>
 
 # 🌟 PART A — Research Questions
 
@@ -58,13 +58,14 @@ Using the `/model` command in Gemini CLI, update the Gemini model to the latest 
 
 - ####  Steps to Upgrade Gemini 3.0
 
-![GEMINI(3.0)](./images/gemini1.jpg) 
+![GEMINI(3.0)](./gemini1.jpg) 
 
-![GEMINI(3.0)](./images/gemini3.0.jpg)  
+![GEMINI(3.0)](./gemini3.0.jpg)  
 
 ---
 
 # 🌟 Reflection
 
 **Reflection:**  
+
 Learning about Gemini 3.0 showed me how rapidly AI is evolving. I realized that Gemini 3.0 is not just an upgrade, it introduces smarter reasoning, better coding support, stronger multimodal understanding, and new tools that make development easier and faster. It can improve real-world problem-solving and development workflows.
