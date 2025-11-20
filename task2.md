@@ -1,4 +1,4 @@
-<h1 align="center"><u style="font-size: 60px;">🔵AIDD 30-Day Challenge — Task 2  by (Bilqees Shahid) 🔵</u></h1>
+<h1 align="center"><u style="font-size: 60px;">🔵AIDD 30-Days Challenge — Task 2  by (Bilqees Shahid) 🔵</u></h1>
 
 
 # 📁 Part A — Theory
@@ -71,4 +71,5 @@ Using any AI CLI tool, generate a 1-paragraph specification for an email validat
 ## 🌟 Reflection
 
 After completing this task, I realize that thinking in layers and systems makes me a more strategic developer. I see that architecture-first planning prevents confusion and broken code when adding new features. Using AI effectively allows me to focus on designing robust systems rather than getting lost in raw code. Overall, I understand that clear structure, planning, and collaboration are key to building maintainable and scalable projects.
+
 
