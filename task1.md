@@ -1,4 +1,4 @@
-<h1 align="center"><u style="font-size: 60px;">🔵AIDD 30-Day Challenge — Task 1  by (Bilqees Shahid) 🔵</u></h1>
+<h1 align="center"><u style="font-size: 60px;">🔵AIDD 30-Days Challenge — Task 1  by (Bilqees Shahid) 🔵</u></h1>
 
 
 ![Alt Text](/aidd.png)
@@ -49,6 +49,7 @@ I think AI-driven development is a **great and new method** that helps both begi
 3. (b) AI-Driven Development
 4. (b) Evaluating and improving AI outputs
 5. (b) Building reasoning + evaluation skills
+
 
 
 
