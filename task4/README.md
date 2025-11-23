@@ -1,7 +1,8 @@
-![Summary-generated](task4/memory/task4-1.jpg)
+![Summary-generated](task4/task4-1.jpg)
 
-![Quiz-generated](task4/memory/task4-2.jpg)
+![Quiz-generated](task4/task4-2.jpg)
 
-![PDF-download](task4/memory/task4-3.jpg)
+![PDF-download](task4/task4-3.jpg)
 
-![Code-pushed](task4/memory/tas4-4.jpg)
+![Code-pushed](tas4/tas4-4.jpg)
+
