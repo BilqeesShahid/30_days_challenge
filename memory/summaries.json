@@ -1,0 +1,20 @@
+[
+    {
+        "id": "c3382f127c1f4aacbcd4689bc28e9489",
+        "timestamp": "2025-11-23T20:55:03.901010",
+        "summary": "This Software Requirements Specification (SRS) outlines the functional requirements for a Smart Queue & Token Management System. The system aims to replace traditional queues with a digital platform where citizens can generate tokens online, track their queue position in real-time, and receive alerts. It includes a Citizen Portal, Admin Dashboard, real-time queue updates, and service management for various public services.  The system caters to different user roles: Citizens, Admins, and Super Admins, each with specific functionalities like token generation, queue management, and service configuration.  It is a web-based system accessible on various devices, requiring internet connectivity and relying on assumptions like stable internet access at public offices and responsible token status updates by admins. The SRS details features like user registration, token generation, real-time queue status, admin token and counter management, service management, and analytics. Finally, it includes a database schema outlining the key tables and fields necessary for storing user, service, counter, and token data.\n",
+        "pdf_name": "Revised_SRS_Smart_Queue_System.pdf"
+    },
+    {
+        "id": "2b4d7cd2b36e4772bd194581f76d37c6",
+        "timestamp": "2025-11-23T21:02:44.739693",
+        "summary": "The Gemini CLI is an AI-powered terminal assistant by Google that combines the features of ChatGPT with command-line tools and automation. It uses built-in tools to interact with the local system (reading/writing files, listing folders) and the external web (Google searches, fetching URLs). Users can control permissions for sensitive actions, requiring approval or using a risky \"yolomode.\" Key built-in tools include ReadFolder, GoogleSearch + WriteFile, WebFetch, and File Conversion. Other tools include Edit, FindFiles, ReadFile, ReadManyFiles, SaveMemory, SearchText, and Shell, which each have their own unique function and purpose within Gemini CLI. These tools allow the Gemini CLI to perform a variety of tasks, from modifying files to searching the web and saving results locally.\n",
+        "pdf_name": "\ud83c\udf1f Gemini CLI \u2014 Built-in Tools (Summary).pdf"
+    },
+    {
+        "id": "ffdca9ecf89a45db990fe9b9efcecfa8",
+        "timestamp": "2025-11-23T21:08:40.185931",
+        "summary": "The Gemini CLI is an AI-powered terminal assistant from Google, combining ChatGPT-like text generation with command-line capabilities and automation. It uses built-in tools to interact with the local system (reading/writing files, listing folders) and the external web (Google searches, fetching URLs). These tools require permission to run sensitive actions, controlled via `--yolomode` (risky, no permissions) or `--approval-mode` (requests permission). Key tools include: `ReadFolder`, `GoogleSearch` + `WriteFile`, `WebFetch`, and `File Conversion`. Other tools allow for file editing, searching, memory saving, and running shell commands.\n",
+        "pdf_name": "\ud83c\udf1f Gemini CLI \u2014 Built-in Tools (Summary).pdf"
+    }
+]
