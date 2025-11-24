@@ -33,21 +33,16 @@
 7. Display quiz in numbered cards (A/B/C/D for MCQ, text-box for short).  
 8. Allow one-click download of summary & quiz (JSON or PDF).
 
----
-
-## 3. Repo Layout (exactly this)
 .
 ├── .env                    # GEMINI_API_KEY=...
 ├── pyproject.toml          # uv-managed deps
 ├── main.py                 # Streamlit UI + agent orchestration
 ├── tools.py                # 2 SDK-compliant tools
-├── memory
+├── memory/
 │   └── summaries.json      # auto-created
 ├── uploads/                # temp PDF cache (git-ignored)
 └── README.md               # setup & run instructions
-Copy
 
----
 
 ## 4. SDK-Compliant Tools (`tools.py`)
 
