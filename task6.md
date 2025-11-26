@@ -6,7 +6,7 @@
 
 # ⚙️ .env
 
-![Github-token](./images/task63.jpg) 
+![Github-token](./task63.jpg) 
 
 
 # ⚙️ Settings.json
@@ -23,19 +23,19 @@
     }
   }
 ```
-![Settings.json](./images/task62.jpg) 
+![Settings.json](./task62.jpg) 
 
 
 # 🎯GitHub MCP Server Configured Successfully!
  
-![Github-MCP](./images/task61.jpg)
+![Github-MCP](./task61.jpg)
 
 ## 📜 MCP List using command  /mcp list
 
 - List of tools on Github MCP
 ---
 
-![Github-MCP](./images/mcplist.jpg)
+![Github-MCP](./mcplist.jpg)
 
 # 📚 GitHub repos list output
 
@@ -44,11 +44,12 @@ Prompt
 ```python
 List my GitHub repositories
 ```
-![Github-id](./images/task64.jpg)
+![Github-id](./task64.jpg)
 
-![Github-repos](./images/task66.jpg)
+![Github-repos](./task66.jpg)
 
-![Github-repos](./images/repo.jpg)
+![Github-repos](./repo.jpg)
+
 
 
 
