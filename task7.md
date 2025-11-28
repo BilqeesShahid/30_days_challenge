@@ -49,8 +49,6 @@ SPECKit Plus uses templates (specifications, plans, ADRs, PHRs), slash commands,
 
 ## ✅ Short Answers for the 5 Core Concepts
 
-Below are short, simple explanations for each concept.
-
 1️⃣ **/constitution – Project Standards**
 
 The /constitution defines the overall rules, quality standards, and success criteria for the entire project.
@@ -102,3 +100,4 @@ Clear Tasks
 Implemented / Applied Work
 
 ```
+
