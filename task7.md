@@ -30,10 +30,10 @@ specifyplus init .
 6. Select script type (**bash or PowerShell**)
 ---
 
-![spectkit-installed](./images/specify1.jpg) 
+![spectkit-installed](./specify1.jpg) 
 
 ----
-![corecommands](./images/specify2.jpg) 
+![corecommands](./specify2.jpg) 
 
 
 
@@ -100,4 +100,5 @@ Clear Tasks
 (enables AI to generate properly cited writing)
     ↓
 Implemented / Applied Work
+
 ```
