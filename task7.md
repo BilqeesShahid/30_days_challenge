@@ -14,9 +14,9 @@ pip install specifyplus
 specifyplus --version 
 ```
 **Output example:**
-
+---
 SpecifyPlus CLI v0.0.17
-
+---
 
 **🚀 Steps to Start Spec-Kit Plus**
 1. Create a folder named **hello-speckit**
@@ -37,9 +37,9 @@ specifyplus init .
 
 
 
-**Q1.** 🔹 What is SPECKit Plus? 
+**Q1.✅ What is SPECKit Plus?**
 
-**A.** 🔹 Short Note on SPECKit Plus
+**A. Short Note on SPECKit Plus:**
 
 SPECKit Plus is an SDD-RI framework (Specification-Driven Development with Reusable Intelligence) that helps developers capture intelligence, not just produce code.
 It follows a two-output philosophy: every feature generates working code (temporary) and reusable intelligence (permanent). The permanent intelligence includes reasoning, decisions, and effective prompts that improve your skills over time.
@@ -100,4 +100,5 @@ Clear Tasks
 Implemented / Applied Work
 
 ```
+
 
